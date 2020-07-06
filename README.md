@@ -12,4 +12,4 @@ You will need to install [Tkinter] (https://tkdocs.com/tutorial/install.html).
 Just run the command *python calculadora.py* in terminal.
 
 
-[!Calculadora](/Imagem/exemplo.png)
+![Calculadora](/Imagem/exemplo.png)
