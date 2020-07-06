@@ -5,7 +5,7 @@ A simple scientific calculator with graphical interface made with [Tkinter](http
 
 ## Requirements
 
-You will need to install [Tkinter] (https://tkdocs.com/tutorial/install.html).
+You will need to install [Tkinter](https://tkdocs.com/tutorial/install.html).
 
 ## Run
 
