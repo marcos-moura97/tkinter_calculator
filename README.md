@@ -14,6 +14,11 @@ Apenas rode o comando *python calculadora.py* no terminal.
 
 
 
+
+
+
+
+
 # Scientific Calculator Tkinter <img src="https://www.championprofessional.com/wp-content/uploads/2015/07/en-icon.png" width="40" />
 
 
