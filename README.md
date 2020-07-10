@@ -1,4 +1,5 @@
-# Scientific Calculator Tkinter ![en](https://www.championprofessional.com/wp-content/uploads/2015/07/en-icon.png | width=48)
+# Scientific Calculator Tkinter <img src="https://www.championprofessional.com/wp-content/uploads/2015/07/en-icon.png" width="50" />
+
 
 ## Overview
 A simple scientific calculator with graphical interface made with [Tkinter](https://docs.python.org/3/library/tkinter.html).
