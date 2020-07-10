@@ -1,16 +1,16 @@
 # Calculadora Científica com Tkinter <img src="https://lh3.googleusercontent.com/proxy/sQCSagzVuc1X3_zgLypJlEX_iDNLzb1urNU3lP54BJETeKExkKnuugvMpng6r_ULUjPqgUGKNjHDiqP78PxPzPPEm8maDXc0UOdgAxr-xg" width="40" />
 
 
-## Overview
-A simple scientific calculator with graphical interface made with [Tkinter](https://docs.python.org/3/library/tkinter.html).
+## Descrição
+Uma simples calculadora científica com interface gráfica feita com [Tkinter](https://docs.python.org/3/library/tkinter.html).
 
-## Requirements
+## Requisitos
 
-You will need to install [Tkinter](https://tkdocs.com/tutorial/install.html).
+Voccê precisará instalar a biblioteca [Tkinter](https://tkdocs.com/tutorial/install.html).
 
-## Run
+## Rodar
 
-Just run the command *python calculadora.py* in terminal.
+Apenas rode o comando *python calculadora.py* no terminal.
 
 
 
@@ -22,7 +22,7 @@ A simple scientific calculator with graphical interface made with [Tkinter](http
 
 ## Requirements
 
-You will need to install [Tkinter](https://tkdocs.com/tutorial/install.html).
+You will need to install [Tkinter](https://tkdocs.com/tutorial/install.html) library.
 
 ## Run
 
