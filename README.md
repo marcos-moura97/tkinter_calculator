@@ -1,4 +1,4 @@
-# Scientific Calculator Tkinter <img src="https://www.championprofessional.com/wp-content/uploads/2015/07/en-icon.png" width="50" />
+# Scientific Calculator Tkinter <img src="https://www.championprofessional.com/wp-content/uploads/2015/07/en-icon.png" width="40" />
 
 
 ## Overview
